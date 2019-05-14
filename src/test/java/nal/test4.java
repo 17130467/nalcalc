@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 /*Аннтоация @Test указывает JUnit, что метод является тестовым методом*/
 import org.junit.Test;
 /*Импортирует из пакета NalogC класс tax*/
-import nalog.nak.tax;
+import nal.tax;
 /*Объявляем новый класс test4*/
 public class test4 {
 	/*Обозначает новую переменную из класса tax*/
